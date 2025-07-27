@@ -2,6 +2,6 @@
 - 👀 I’m interested in Keeping It Simple and Smart!
 - 🌱 I’m currently learning DRAKON Language
 - 💞️ I’m looking to collaborate on creating an IUMDE
-- 📫 You canb rearch me here at github...
+- 📫 You can reach me here at github...
 
 
